@@ -1,0 +1,10 @@
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore macOS Finder files
+.DS_Store
+
+# Ignore build and output directories
+out/
+build/
+
